@@ -24,3 +24,4 @@ if __name__ == "__main__":
     print("Вычитание:", subtract(x, y))
     print("Умножение:", multiply(x, y))
     print("Деление:", divide(x, y))
+# Изменение выполнено в ветке development
